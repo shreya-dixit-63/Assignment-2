@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Lists</title>
+</head>
+<body>
+    <h1>HTML List Examples</h1>
+
+    <h2>Ordered List</h2>
+    <ol>
+        <li>Introduction to HTML</li>
+        <li>Understanding CSS</li>
+        <li>Basics of JavaScript</li>
+    </ol>
+
+    <h2>Unordered List</h2>
+    <ul>
+        <li>Learn Python</li>
+        <li>Practice Data Structures</li>
+        <li>Build Mini Projects</li>
+    </ul>
+
+    <h2>Nested List</h2>
+    <ul>
+        <li>Programming Languages
+            <ul>
+                <li>Java</li>
+                <li>Python</li>
+                <li>C++</li>
+            </ul>
+        </li>
+        <li>Web Development
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
